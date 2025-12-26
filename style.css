@@ -8,4 +8,69 @@
 body {
   background-color: #f4d58d;
   font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.container {
+  padding: 2rem;
+  max-width: 25rem;
+  max-height: 28.125rem;
+  border-radius: 1.5rem;
+  background: #fff;
+}
+.amount {
+  margin: 1rem 0;
+}
+
+form input,
+select,
+button {
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 0.75rem;
+}
+form input {
+  height: 3rem;
+  padding-left: 1rem;
+  font-size: 1rem;
+  border: 1px solid lightgray;
+  margin-top: 0.5rem;
+}
+.dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dropdown i {
+  margin-bottom: 1rem;
+  font-size: 1.35rem;
+}
+.select-container img {
+  width: 2rem;
+}
+.select-container {
+  margin-top: 0.5rem;
+  width: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid lightgray;
+  border-radius: 0.75rem;
+  margin-bottom: 2rem;
+}
+.select-container select {
+  font-size: 1rem;
+  width: auto;
+}
+.msg {
+  margin: 1rem 0;
+}
+form button {
+  height: 3rem;
+  background-color: #014f86;
+  color: #fff;
+  font-size: 1.15rem;
 }
