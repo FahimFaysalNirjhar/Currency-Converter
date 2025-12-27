@@ -28,4 +28,4 @@ It allows users to convert amounts between different currencies using real-time 
 
 ## 🌐 API Used
 
-Exchange rates are fetched from:
+Exchange rates are fetched from: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
