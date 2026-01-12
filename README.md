@@ -29,3 +29,17 @@ It allows users to convert amounts between different currencies using real-time 
 ## 🌐 API Used
 
 Exchange rates are fetched from: https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies
+
+## 📝 License
+
+This project is **free to use**.  
+You are welcome to use, copy, modify, and distribute this project for personal or commercial purposes.
+
+---
+
+## 👤 Author
+
+**Fahim Faysal – Front-End Developer**
+
+- GitHub: [https://github.com/FahimFaysalNirjhar](https://github.com/FahimFaysalNirjhar)
+- Email: [fahimfaysal1995@gmail.com](mailto:fahimfaysal1995@gmail.com)
